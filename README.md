@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Opendaylight SNMP Plugin
 https://wiki.opendaylight.org/view/SNMP_Plugin:Main
 
@@ -16,3 +17,6 @@ SNMP4J | ~/.m2/repository/org/apache/servicemix/bundles/org.apache.servicemix.bu
 mibs-model | mibs-model/target/mibs-model-XXXX.jar  | 
 snmp | snmp/target/snmp-XXXX-SNAPSHOT.jar
 
+=======
+# Suppi2
+>>>>>>> 3f148fa753dfecd879b7c32e052641e7aacac47d
